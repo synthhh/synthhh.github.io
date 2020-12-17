@@ -1,5 +1,7 @@
 html, body{
     height:100%;
+    margin:30px 30px 30px 30px;
+    padding:10px 10px 10px 10px;
 }
 
 .header{
@@ -10,11 +12,16 @@ html, body{
     z-index: 0;
 }
 
-/* .background{
+a:hover{
+    color:lightgrey;
+
+}
+
+.background{
     position    : absolute;
     display     : block;
     top         : 0;
     left        : 0;
     z-index     : -1;
     background-color: #E4E4E4;
-} */
+}
