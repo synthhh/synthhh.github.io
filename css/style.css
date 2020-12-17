@@ -1,13 +1,12 @@
 html, body{
-    margin      : 0;
-    padding     : 0;
+    
 }
 
 .header{
     max-width: 500px;
     display: flex;
     flex-direction: row;
-    font-size: 15px;
+    font-size: 30px;
 }
 
 .background{
